@@ -22,7 +22,7 @@ Checkout process — purchase products, payment integration, order summary
 
 Admin / seller panel — to add/edit/delete products, manage inventory
 
-#🚀 How to Run Locally / Setup
+# How to Run Locally / Setup
 
 ```bash
 # Clone the repository
