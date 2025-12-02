@@ -22,4 +22,18 @@ Checkout process — purchase products, payment integration, order summary
 
 Admin / seller panel — to add/edit/delete products, manage inventory
 
+#🚀 How to Run Locally / Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/fekmohammed/rosa_veil.git
+
+# Go into project directory
+cd rosa_veil
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
 
