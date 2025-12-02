@@ -27,13 +27,16 @@ Admin / seller panel — to add/edit/delete products, manage inventory
 ```bash
 # Clone the repository
 git clone https://github.com/fekmohammed/rosa_veil.git
-
+```
+```bash
 # Go into project directory
 cd rosa_veil
-
+```
+```bash
 # Install dependencies
 npm install
-
+```
+```bash
 # Start development server
 npm run dev
-
+```
