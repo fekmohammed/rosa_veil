@@ -1,12 +1,14 @@
-# React + Vite
+# Rosa Veil — E-commerce Store for Abayat, Hijabat & Scarves
+## What is Rosa Veil
+Rosa Veil is a web application for online shopping, designed to sell modest fashion: abayat, hijabat, djilbab and scarves. Its purpose is to provide customers with an easy-to-use, attractive online store focused on modest clothing and accessories.
+### Project status: Incomplete — core structure exists but many features still to build.
+## Key Features (planned / implemented)
+Show product listings for abayat, hijabat, djilbab, scarves (with images, names, prices, descriptions)
+Product detail pages (show more info, multiple images, size/color variants)
+Shopping cart — users can add / remove products
+Responsive design — usable on desktop and mobile
+User authentication — so customers can sign up / login, track orders, manage profile
+Checkout process — purchase products, payment integration, order summary
+Admin / seller panel — to add/edit/delete products, manage inventory
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
