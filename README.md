@@ -4,11 +4,17 @@ Rosa Veil is a web application for online shopping, designed to sell modest fash
 ### Project status: Incomplete — core structure exists but many features still to build.
 ## Key Features (planned / implemented)
 Show product listings for abayat, hijabat, djilbab, scarves (with images, names, prices, descriptions).
+
 Product detail pages (show more info, multiple images, size/color variants)
+
 Shopping cart — users can add / remove products
+
 Responsive design — usable on desktop and mobile
+
 User authentication — so customers can sign up / login, track orders, manage profile
+
 Checkout process — purchase products, payment integration, order summary
+
 Admin / seller panel — to add/edit/delete products, manage inventory
 
 
