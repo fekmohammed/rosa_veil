@@ -3,7 +3,7 @@
 Rosa Veil is a web application for online shopping, designed to sell modest fashion: abayat, hijabat, djilbab and scarves. Its purpose is to provide customers with an easy-to-use, attractive online store focused on modest clothing and accessories.
 ### Project status: Incomplete — core structure exists but many features still to build.
 ## Key Features (planned / implemented)
-Show product listings for abayat, hijabat, djilbab, scarves (with images, names, prices, descriptions)
+Show product listings for abayat, hijabat, djilbab, scarves (with images, names, prices, descriptions).
 Product detail pages (show more info, multiple images, size/color variants)
 Shopping cart — users can add / remove products
 Responsive design — usable on desktop and mobile
